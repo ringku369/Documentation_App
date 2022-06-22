@@ -1,0 +1,1 @@
+<x-site.contents.banner></x-site.contents.banner>

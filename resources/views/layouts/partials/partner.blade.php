@@ -1,0 +1,1 @@
+<x-site.contents.partner></x-site.contents.partner>

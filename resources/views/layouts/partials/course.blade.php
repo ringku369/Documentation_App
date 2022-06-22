@@ -1,0 +1,1 @@
+<x-site.contents.course></x-site.contents.course>
